@@ -1,4 +1,4 @@
-# CustomSQLUser-DefinedAggregateFunctions
+# Custom SQL User-Defined Aggregate Functions
 ### How To Create SQL Custom User-Defined Aggregate Functions
 
 <br/>
