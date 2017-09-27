@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLAggregateFunctions", "SQLAggregateFunctions\SQLAggregateFunctions.csproj", "{94DD64A8-63CE-4405-995F-F846E85A2ED8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Notes", "Notes", "{F3C8D774-CB7D-4CFB-808E-0CE4AEAE4F99}"
+	ProjectSection(SolutionItems) = preProject
+		Notes\RegisterAssembly.sql = Notes\RegisterAssembly.sql
+		Notes\TestDBCreationScript.sql = Notes\TestDBCreationScript.sql
+		Notes\TestingAggregateFunction.sql = Notes\TestingAggregateFunction.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94DD64A8-63CE-4405-995F-F846E85A2ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94DD64A8-63CE-4405-995F-F846E85A2ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94DD64A8-63CE-4405-995F-F846E85A2ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94DD64A8-63CE-4405-995F-F846E85A2ED8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
